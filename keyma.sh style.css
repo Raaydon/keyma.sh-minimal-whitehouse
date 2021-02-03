@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Deca&display=swap');
+.match--container *{
+    font-family: "Helvetica", sans-serif !important;
+    word-spacing: 5px;
+    font-size: 24px;
+}
+#root > div > div.fixed.left-0.top-0.bottom-0.w-10.lg\:w-64.h-full.bg-gray-800.bg-opacity-50.shadow-lg{
+background-color: #262a33;
+opacity: 0.0;
+transition: opacity 0.2s;
+}
+#root > div > div.fixed.left-0.top-0.bottom-0.w-10.lg\:w-64.h-full.bg-gray-800.bg-opacity-50.shadow-lg:hover{
+opacity: 1;
+transition: opacity 0.2;
+}
+body{
+background: url("https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/165341185/original/2d1012f79d1be47142e3c6b9dea8b60205a7d8f7/draw-an-nice-background-or-wallpaper-for-you-xp.png") top fixed;
+}
+.match--container{
+background: #010000;
+box-shadow: none;
+}.game--content--bar{
+background: #0b0b0b;
+box-shadow: none;
+border-radius: 0;
+}
+.match--cursor, .match--cursor.idle {
+    position: relative;
+    background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAABCAIAAACUgoPjAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAAQSURBVBhXY3T7t4UBCBgYAA9mAfpsj+8KAAAAAElFTkSuQmCC");
+    width: 20px !important;
+    background-repeat: repeat-y;
+}
+
+div.my-6.lg\:my-0 > div > div.bg-gray-875.rounded.shadow-md{
+background: #0b0b0b;
+box-shadow: none;
+border-radius: 0;
+}
+div.flex.flex-wrap.divide-x.divide-gray-825.divide-opacity-20.bg-gray-825.rounded-t{
+
+background: #0b0b0b !important;
+box-shadow: none;
+border-radius: 0;
+}
+
+#root > div > div.fixed.left-0.top-0.bottom-0.w-10.lg\:w-64.h-full.bg-gray-800.bg-opacity-50.shadow-lg{
+background-color: #000 !important;
+backdrop-filter: blur(40px);
+box-shadow: none;
+}
+/*#root > div > div:nth-child(2) > div > div:nth-child(1) > div, #root > div > div:nth-child(2) > div > div:nth-child(2),#root > div > div:nth-child(2) > div > div:nth-child(3),#root > div > div:nth-child(2) > div > div:nth-child(5), #root > div > div:nth-child(2) > div > div:nth-child(6), #root > div > div:nth-child(2) > div > div:nth-child(4), #root > div > div:nth-child(2) > div > div:nth-child(7), #root > div > div:nth-child(2) > div > div:nth-child(8){
+    display: none;
+}*/
+
+.match--input{
+    border-color: #ffffff1c;
+}
+
+div.game--content--bar.rounded.flex.flex-wrap > div.w-auto.my-auto.font-semibold.text-white.text-right.pt-px svg{
+    color: #ffffffa6;
+}
+div.game--content--bar.rounded.flex.flex-wrap > div.w-auto.my-auto.font-semibold.text-white.text-right.pt-px span{
+    color: #ffffffc4;
+}
+.text-orange-400:not(.text-2xl){
+    color: #ffffff80;
+}
+
+.sidebar-user{
+    box-shadow: none;
+    background: #000 !important;
+    border: 1px solid #0d0d0d1f !important;
+}
+div.sidebar-user.border.shadow-md > div > div.bg-gray-825.px-3.py-1.rounded-b{
+    background: none !important;
+}
+
+div.w-10.lg\:w-16.my-auto.xl\:pr-2 > a > img{
+    border: none;
+}
+
+div.xl\:w-full.flex-1.my-auto > div.flex.flex-wrap.px-1.text-xs > div.w-full > div > div > div{
+    background: #f5030326;
+}
+
+a.block.mb-4.shadow.rounded.border-l-4.bg-gray-850.hover\:bg-gray-875.transition.ease-in-out.duration-200.px-6.py-2{
+    background: #ff000030;
+    box-shadow: none;
+}
+lg\:ml-64 {
+    margin-left: 0 !important;
+}
